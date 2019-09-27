@@ -16,7 +16,7 @@ function get_files($dir, $endungen) {
   return "selfi404.jpg";
 }
 
-$selfiedir = "../selfiestorage/archiv/";
+$selfiedir = "../archiv/";
 $bild = get_files($selfiedir, array('jpg'));
 
 //create PHP image from source

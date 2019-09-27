@@ -1,5 +1,5 @@
 <?php
-$selfiedir = "../selfiestorage/aktuell";
+$selfiedir = "../aktuell";
 
 $bilder = array();
 
