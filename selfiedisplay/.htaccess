@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^random-all.jpg$ random.php [L]
+RewriteRule ^random-current.jpg$ image.php [L]
+
