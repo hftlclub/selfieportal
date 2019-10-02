@@ -1,0 +1,9 @@
+{
+    "secrets": [
+        "abcdefg"
+    ],
+    "uploadDir": "/var/www/html/aktuell/",
+    "allowedMimeTypes": [
+        "image/jpeg"
+    ]
+}

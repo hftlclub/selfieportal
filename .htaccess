@@ -1,1 +1,3 @@
 DirectoryIndex index.html index.php /_h5ai/server/php/index.php
+RedirectMatch 403 ^/upload/upload.config.json$
+
