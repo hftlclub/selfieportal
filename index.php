@@ -87,6 +87,10 @@ div#btnContainer a.archive:hover{
 	Aktuelle Fotos
 </a>
 <?php } ?>
+<a href="./archiv/2023-09-02-Stecker-Abschlussfest" class="recent">
+	<img src="media/iconmonstr-picture-multi-5-icon-32.png" alt="" width="32">	
+	Abschlussfest<br>02.09.2023
+</a>
 <a href="./archiv" class="archive">
 	<img src="media/iconmonstr-archive-6-icon-32.png" alt="" width="32">
 	Archiv
